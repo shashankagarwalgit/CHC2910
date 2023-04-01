@@ -1,14 +1,15 @@
 # Computer Programming Lab in C++
-ZHCET Chemical Engineering Computer Programming Lab Codes
+<strong>ZHCET Chemical Engineering Computer Programming Lab Codes
 
 ## About
 Course Code- CHC2910
 
-<strong>Code Uploded By Shashank Agarwal</strong>
+Code Uploded By Shashank Agarwal
 
 ## List Of Programs
-- <strong>Root of Function by Newton Raphson and Bisection Method</strong>
-- <strong>Solution of Linear Equation By Gauss Jordan Elemination </strong>
-- <strong>Formatting a Table with function</strong>
+- Root of Function by Newton Raphson and Bisection Method
+- Solution of Linear Equation By Gauss Jordan Elemination
+- Formatting a Table with function
+- Dischare Rate of water by Trapezoidal Rule , Simpson's 1/3 Rule & Simpson's 3/8 Rule
 
 
